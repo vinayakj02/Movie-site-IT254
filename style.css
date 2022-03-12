@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Meie+Script|Shadows+Into+Light|Arvo|Monda');
+
+.font_shadows_into_light {
+    font-family: 'Shadows Into Light', cursive;
+  }
+
+  
 html,
 body,
 header,
 #intro {
     height: 100%;
 }
-
+.mk-it-large{
+    font-size: 40px;
+}
 #intro {
     background: url("images/spidey-1.png")no-repeat center center fixed;
     -webkit-background-size: cover;
