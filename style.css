@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Meie+Script|Shadows+Into+Light|Arvo|Monda');
-
+.welcome{
+    border: 2px solid red;
+    margin: 150px;
+}
 .font_shadows_into_light {
     font-family: 'Shadows Into Light', cursive;
   }
@@ -20,4 +23,10 @@ header,
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+.intro-text{
+    background-color: rgb(19, 18, 17);
+    opacity: 0.5;
+    color: white;
+    /* border: 2px solid red; */
 }
