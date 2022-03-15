@@ -1,0 +1,113 @@
+.navbar{
+    padding-left: 10%;
+}  
+body{
+    background-color: black;
+    color: aliceblue;
+}
+img{
+    width: 20%;
+    height: 50%;
+}
+.card{
+    width: 20%;
+    float: left;
+    margin: 2% 1%;
+}
+.carousel-item{
+    /* width: 90; */
+    margin: auto;
+    /* text-align: center; */
+}
+/* .carousel-inner {
+    height: 450px;
+}  */
+.card:hover{
+    /* outline-color: chartreuse; */
+    border-width: 0.3rem;
+    border-color: chartreuse;
+    /* background-color: chartreuse; */
+}
+.headings{
+    margin-top: 3%;
+}
+.review-image{
+    width: 10%;
+    height: 15%;
+    float: left;
+}
+.review-image:hover{
+    border: 2px solid aqua;
+}
+button{
+    /* color: aqua; */
+    /* margin: 0%; */
+    /* width: 80px; */
+    background-color: darkgray;
+}
+.crew-pick-img:hover{
+    border: 2px solid aqua;
+}
+.comment{
+    margin-left: 5%;
+    float: left;
+}
+.crew-pick-img{
+    width: 25%;
+    height: 45%;
+    margin: 2% 2%;
+}
+.content{
+    color: darkgray;
+}
+.username:hover{
+    cursor: pointer;
+    color: aliceblue;
+}
+.year{
+    color: darkgray;
+}
+.year:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.head-name:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.icon:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.likes:hover{
+    cursor: pointer;
+    color: aliceblue;
+}
+.side-review{
+    font-size: small;
+    color: darkgray;
+}
+.reviewer-content{
+    margin-left: 10%;
+}
+.reviewer-info:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.follow-icon{
+    /* margin-left: 10%; */
+    float: right;
+}
+footer{
+    padding: 2.5% 0;
+    /* margin: 10%; */
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+    color: aliceblue;
+}
+.social-icon{
+    margin: 2% 1%;
+}
+/* .reviewer-image{
+
+} */
