@@ -2,7 +2,6 @@
 
 For IT254 Web Tech Project
 
-- [x] works
 ## Pages 
 
 | Page |  Status | By | Github Pages | 
