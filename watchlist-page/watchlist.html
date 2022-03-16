@@ -71,7 +71,7 @@
     </section>
 
     <section id="headerandstuff">
-        <p style="font-size: 50px; padding-top: 100px; text-align: center; color: white;">Watchlist</p>
+        <p style="font-size: 50px; padding-top: 100px; text-align: center; color: #9ABBCC;">Watchlist</p>
         <div class="input-group input-group-sm mb-3 inp-movie">
             <input type="text" class="form-control" placeholder="your next movie ? " aria-label="nexr-movie" aria-describedby="basic-addon2">
             <div class="input-group-append">
@@ -79,6 +79,68 @@
             </div>
         </div>
     </section>
+
+
+    <div class="row navbar-text dp-fp">
+        <p style="width:10%; color: rgb(87, 87, 97); font-weight: 500;">Browse by</p>
+        <!-- <button></button> -->
+        <div style="width:6.5%;" class="dropdown">
+            <button class=" dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" style="color: green; background-color: #2C3440; border: none;">
+              Year
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">All</a></li>
+              <li><a class="dropdown-item" href="#">Upcoming</a></li>
+              <li><a class="dropdown-item" href="#">2020s</a></li>
+              <li><a class="dropdown-item" href="#">2010s</a></li>
+              <li><a class="dropdown-item" href="#">2000s</a></li>
+              <li><a class="dropdown-item" href="#">1990s</a></li>
+            </ul>
+          </div>
+
+          <div style="width:7.7%;" class="dropdown">
+            <button class="dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" style="color: green; background-color: #2C3440; border: none;">
+              Rating
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">Highest rated first</a></li>
+              <li><a class="dropdown-item" href="#">Lowest rated first</a></li>
+              <li><a class="dropdown-item" href="#">Top 250 narrative features</a></li>
+            </ul>
+          </div>
+
+          <div style="width:8.4%;" class="dropdown">
+            <button class="dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" style="color: green; background-color: #2C3440; border: none;">
+              Popular
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">All time</a></li>
+              <li><a class="dropdown-item" href="#">This year</a></li>
+              <li><a class="dropdown-item" href="#">This month</a></li>
+            </ul>
+          </div>
+
+          <div style="width:7%;" class="dropdown">
+            <button class="dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" style="color: green; background-color: #2C3440; border: none;">
+              Genre
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Adventure</a></li>
+              <li><a class="dropdown-item" href="#">Suspense</a></li>
+              <li><a class="dropdown-item" href="#">Thriller</a></li>
+              <li><a class="dropdown-item" href="#">Romance</a></li>
+              <li><a class="dropdown-item" href="#">Comedy</a></li>
+            </ul>
+          </div>
+          <!-- <input style="width: 12%;" type="text" name="" id="film_name"> -->
+          <form style="width: 24%;margin-left: 5%;" class="d-flex">
+            <!-- <button class="btn btn-outline-success" type="submit">Find a film</button> -->
+            <p style="width: 50%;  color: rgb(87, 87, 97); font-weight: 500; ">Find a film</p>
+            <input style="margin-left: 2%;height: 25px; width: 90%;" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+
+          </form>
+    </div>
 
     <section id="movie-list">
                 <div style="margin-left: 5%;" class="card">
@@ -114,10 +176,7 @@
 
                 <div class="card">
                     <img src="images/social-network.jpg" class="card-img" alt="...">
-                </div>
-
-                
-                 
+                </div>         
     </section>
 
 </body>

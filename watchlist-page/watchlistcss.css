@@ -35,3 +35,22 @@ img{
     padding-left: 500px;
     padding-right: 500px;
 }
+
+.dp-fp{
+    margin-top: 40px;
+    margin-left: 85px;
+    margin-right: 150px;
+    padding-left: 50px;
+    text-align: center;
+    border-bottom: 2px solid rgb(68, 67, 67);
+}
+.dropdown-menu{
+    background-color: #212529;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover{
+    color: green;
+    background-color: #212529;
+}
