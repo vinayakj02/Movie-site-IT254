@@ -2,7 +2,7 @@
     padding-left: 10%;
 }  
 body{
-    background-color: black;
+    background-color: #15191E;
     color: aliceblue;
 }
 img{
@@ -13,6 +13,7 @@ img{
     width: 20%;
     float: left;
     margin: 2% 1%;
+    border: solid black 2px;
 }
 .carousel-item{
     /* width: 90; */
@@ -23,10 +24,8 @@ img{
     height: 450px;
 }  */
 .card:hover{
-    /* outline-color: chartreuse; */
-    border-width: 0.3rem;
+    border-width: 0.1rem;
     border-color: chartreuse;
-    /* background-color: chartreuse; */
 }
 .headings{
     margin-top: 3%;
@@ -37,16 +36,17 @@ img{
     float: left;
 }
 .review-image:hover{
-    border: 2px solid aqua;
+    border: 0.5px solid chartreuse;
 }
 button{
     /* color: aqua; */
     /* margin: 0%; */
     /* width: 80px; */
-    background-color: darkgray;
+    border-color: chartreuse;
 }
 .crew-pick-img:hover{
-    border: 2px solid aqua;
+    /* border-color: chartreuse; */
+    border: 0.5px solid chartreuse;
 }
 .comment{
     margin-left: 5%;
@@ -111,3 +111,17 @@ footer{
 /* .reviewer-image{
 
 } */
+
+.dp-fp{
+    margin-top: 20px;
+}
+.dropdown-menu{
+    background-color: #212529;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover{
+    color: green;
+    background-color: #212529;
+}
