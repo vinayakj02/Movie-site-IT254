@@ -1,0 +1,38 @@
+body{
+    background-color: #15191E;
+}
+
+img{
+    width: 20%;
+    height: 50%;
+}
+.card{
+    width: 20%;
+    float: left;
+    margin: 2% 1%;
+    /* border-color: #15191E; */
+    border: 1px solid black;
+}
+.carousel-item{
+    /* width: 90; */
+    margin: auto;
+    /* text-align: center; */
+}
+/* .carousel-inner {
+    height: 450px;
+}  */
+.card:hover{
+    /* outline-color: chartreuse; */
+    border-width: 0.3rem;
+    border: 1px solid rgb(185, 165, 165);
+    /* background-color: chartreuse; */
+}
+.cards{
+    margin:-1px;
+}
+
+.inp-movie{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
