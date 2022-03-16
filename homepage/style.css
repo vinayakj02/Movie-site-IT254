@@ -33,3 +33,20 @@ header,
     color: white;
     /* border: 2px solid red; */
 }
+
+.card-header, .card-text{
+   color: #9ABBCC;
+}
+
+
+i:hover{
+    color: #00E054;
+}
+.card:hover{
+    border-width: 0.1rem;
+    border-color: rgb(16, 17, 15);
+}
+
+button:hover{
+    color: #00E054;
+}
