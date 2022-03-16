@@ -24,7 +24,7 @@ img{
 .card:hover{
     /* outline-color: chartreuse; */
     border-width: 0.3rem;
-    border: 1px solid rgb(185, 165, 165);
+    border: 1px solid rgb(25, 187, 10);
     /* background-color: chartreuse; */
 }
 .cards{
@@ -35,4 +35,3 @@ img{
     padding-left: 500px;
     padding-right: 500px;
 }
-
