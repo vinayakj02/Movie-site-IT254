@@ -1,0 +1,68 @@
+@font-face { 
+    font-family:TiemposTextWeb-Semibold;
+    font-style:normal;
+    font-weight:100;
+    src:url(https://s.ltrbxd.com/fonts/TiemposTextWeb-Semibold.eot);
+    src:url(https://s.ltrbxd.com/fonts/TiemposTextWeb-Semibold.eot?#iefix) format("embedded-opentype"),url(https://s.ltrbxd.com/fonts/TiemposTextWeb-Semibold.woff2) format("woff2"),url(https://s.ltrbxd.com/fonts/TiemposTextWeb-Semibold.woff) format("woff");
+} 
+
+*{
+    font-family: TiemposTextWeb-Semibold;
+    font-weight: 100;
+}
+.movie-list{
+    padding-top: 20px;
+    margin-top: 60px;
+    /* margin-left: 200px; */
+    width: 90%;
+}
+body{
+    background-color: #15191E;
+    /* text-color : #9ABBCC  */
+    /* green : rgb(25, 187, 10) */
+}
+
+hr,p{
+    color: #9ABBCC;
+}
+.card{
+    width: 20%;
+    float: left;
+    margin: 2% 1%;
+    border: solid black 2px;
+}
+
+.card:hover{
+    /* border-width: 0.1rem; */
+    border-color: chartreuse;
+}
+
+.profile-section{
+    /* margin-top: 100px; */
+    /* margin-left: 200px; */
+    /* width: 60%; */
+}
+
+
+/* Create three unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+  }
+  
+  /* Left and right column */
+  .column.side {
+    width: 30%;
+  }
+  
+  /* Middle column */
+  .column.middle {
+    width: 70%;
+  }
+  
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */
