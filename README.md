@@ -11,5 +11,5 @@ For IT254 Web Tech Project
 | [Page for each movie]() |  Started | Nikhil | No |
 | [Watch list](https://vinayakj02.github.io/Movie-site-IT254/watchlist-page/watchlist.html) |  Started | Vinayak |  :heavy_check_mark: |
 | [Profile](https://vinayakj02.github.io/Movie-site-IT254/profile-page/profile-page.html) |  Started | Vinayak  | :heavy_check_mark: |
-| [Diary]() |  Not-Started |  Pranav | No |
+| [Diary]() |  Started |  Pranav | No |
 | [Log-in & Sign-up]() |  Started |  Pranav | No |
