@@ -63,3 +63,18 @@ footer{
 .icon:hover{
     color: #00C030;
 }
+
+.card:hover{
+    border-width: 0.1rem;
+    border-color: chartreuse;
+}
+img{
+    width: 20%;
+    height: 50%;
+}
+.card{
+    width: 20%;
+    float: left;
+    margin: 2% 1%;
+    border: solid black 2px;
+}
