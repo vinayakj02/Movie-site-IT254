@@ -1,16 +1,26 @@
-# Movie Reviews / Diary Website
+# Movie Review Site 
 
-For IT254 Web Tech Project
+Mini Poject - IT254 - Web Technologies and Applications 
+
+| Name | Roll no |
+|---------------------------|:---------------------------|
+| [Vinayak Vatsalya J](https://github.com/vinayakj02) | 201IT266 | 
+| [Nikhil Satish](https://github.com/Nikhil-Satish) | 201IT255 |
+| [Pranav RS](https://github.com/pranavsubrahmanya) | 201IT143 | 
 
 ## Pages 
 
-| Page |  Status | By | Github Pages | 
-|---------------------------|:---------------------------|:---------------------------|:---------------------------|
-| [Home page](https://vinayakj02.github.io/Movie-site-IT254/homepage/homepage.html) | Started | Vinayak |  :heavy_check_mark: |
-| [Film page](https://vinayakj02.github.io/Movie-site-IT254/FilmPage/Film.html) | Started | Nikhil |  :heavy_check_mark: |
-| [Page for each movie]() |  Started | Nikhil | No |
-| [Watch list](https://vinayakj02.github.io/Movie-site-IT254/watchlist-page/watchlist.html) |  Started | Vinayak |  :heavy_check_mark: |
-| [Profile](https://vinayakj02.github.io/Movie-site-IT254/profile-page/profile-page.html) |  Started | Vinayak  | :heavy_check_mark: |
-| [Diary]() |  Started |  Pranav | No |
-| [Sign-up](https://vinayakj02.github.io/Movie-site-IT254/Sign-Up/Sign-up.html) |  Started |  Pranav | :heavy_check_mark: |
-| [Log-in](https://vinayakj02.github.io/Movie-site-IT254/Log-In/Log-In.html)| Started | Pranav | :heavy_check_mark: | 
+| Page | By |
+|---------------------------|:---------------------------|
+| [Home page](https://vinayakj02.github.io/Movie-site-IT254/homepage/homepage.html) | Vinayak |
+| [Film page](https://vinayakj02.github.io/Movie-site-IT254/FilmPage/Film.html) | Nikhil |
+| [Page for each movie]() | Nikhil |
+| [Watch list](https://vinayakj02.github.io/Movie-site-IT254/watchlist-page/watchlist.html) | Vinayak |
+| [Profile](https://vinayakj02.github.io/Movie-site-IT254/profile-page/profile-page.html) | Vinayak |
+| [Diary]() | Pranav |
+| [Sign up](https://vinayakj02.github.io/Movie-site-IT254/Sign-Up/Sign-up.html) | Pranav |
+| [Log in](https://vinayakj02.github.io/Movie-site-IT254/Log-In/Log-In.html)| Pranav |
+| [Lists]() | Vinayak |
+| [Likes]() | Nikhil | 
+
+
