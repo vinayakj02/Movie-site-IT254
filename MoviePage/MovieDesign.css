@@ -1,0 +1,78 @@
+.navi {
+    background: url("images/batman-back.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/* .align-middle {
+    align-items: center;
+  } */
+.container{
+    padding-top: 100px;
+}
+/* .card-header{
+    margin: auto;
+} */
+.card p{
+    color: aqua;
+}
+.card p:hover{
+    cursor: pointer;
+    color: aliceblue;
+}
+.icon{
+    /* padding-right: 8%; */
+    color: aqua;
+    margin: 0 7%;
+}
+.icon:hover{
+    cursor: pointer;
+    color: aliceblue;
+}
+button{
+    margin-top: 2%;
+    margin-right: 1%;
+}
+.card{
+    text-align: center;
+    background-color:darkslategrey;
+    color: aliceblue;
+}
+img{
+    height: 50%;
+    width: 30%;
+}
+.review{
+    float: right;
+    padding-left: 10%;
+}
+.where-to-watch{
+    padding-top: 100px;
+    /* color: black; */
+}
+.wtw-btn{
+    background-color: darkgray;
+    border-radius: 7px;
+    margin-left: 2%;
+}
+.wtw-btn:hover{
+    background-color: aliceblue;
+}
+body{
+    background-color: black;
+    color: antiquewhite;
+    align-items: center;
+}
+.leftside{
+    float: left;
+    /* padding: 10%; */
+}
+.main-content{
+    float: left;
+    /* padding: 10%; */
+    padding-left: 5%;
+}
+/* .review{
+    margin-left: 10%;
+} */
