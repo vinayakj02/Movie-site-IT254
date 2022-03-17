@@ -14,7 +14,7 @@ Mini Poject - IT254 - Web Technologies and Applications
 |---------------------------|:---------------------------|
 | [Home page](https://vinayakj02.github.io/Movie-site-IT254/homepage/homepage.html) | Vinayak |
 | [Film page](https://vinayakj02.github.io/Movie-site-IT254/FilmPage/Film.html) | Nikhil |
-| [Page for each movie]() | Nikhil |
+| [Page for each movie](https://vinayakj02.github.io/Movie-site-IT254/MoviePage/Movie.html) | Nikhil |
 | [Watch list](https://vinayakj02.github.io/Movie-site-IT254/watchlist-page/watchlist.html) | Vinayak |
 | [Profile](https://vinayakj02.github.io/Movie-site-IT254/profile-page/profile-page.html) | Vinayak |
 | [Diary]() | Pranav |
