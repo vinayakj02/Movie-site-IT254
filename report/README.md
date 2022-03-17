@@ -6,7 +6,7 @@ Mini Poject - IT254 - Web Technologies and Applications
 |---------------------------|:---------------------------|
 | [Vinayak Vatsalya J](https://github.com/vinayakj02) | 201IT266 | 
 | [Nikhil Satish](https://github.com/Nikhil-Satish) | 201IT255 |
-| [Pranav RS](https://github.com/pranavsubrahmanya) | 201IT143 | 
+| [Pranav R S](https://github.com/pranavsubrahmanya) | 201IT143 | 
 
 ## Pages 
 
