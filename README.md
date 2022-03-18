@@ -14,3 +14,4 @@ For IT254 Web Tech Project
 | [Diary]( https://vinayakj02.github.io/Movie-site-IT254/diary/diary.html) |  Started |  Pranav | :heavy_check_mark: |
 | [Sign-up](https://vinayakj02.github.io/Movie-site-IT254/Sign-Up/Sign-up.html) |  Started |  Pranav | :heavy_check_mark: |
 | [Log-in](https://vinayakj02.github.io/Movie-site-IT254/Log-In/Log-In.html)| Started | Pranav | :heavy_check_mark: | 
+| [custom-lists](https://vinayakj02.github.io/Movie-site-IT254/custom-lists/custom-list-1/custom-list-1.html) | Started | Vinayak | :heavy_check_mark: |

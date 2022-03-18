@@ -15,8 +15,8 @@
         integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" 
         crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="watchlistcss.css">
-    <title>Watchlist</title>
+    <link rel="stylesheet" href="custom-list-1-css.css">
+    <title>List by Lucy</title>
     <link rel="icon" type="image/x-icon" href="images/logo.jpg">
 </head>
 <body>
@@ -24,54 +24,58 @@
 
 
     <section id="navbar">
-        <div class="navi">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <!-- <i class="fad fa-film"></i> -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+
+            <div class="container">
+        
+            <!-- Navbar brand -->
+            <a class="navbar-brand" href="#">CineFlix</a>
+        
+            <!-- Collapse button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+                aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        
+            <!-- Collapsible content -->
+            <div class="collapse navbar-collapse" id="basicExampleNav">
                 
-                <a style="margin-left: 15%;" class="navbar-brand" href=""><i class="head-icon fas fa-film"></i>    CINEFLIX</a>
+                <!-- Links -->
+                <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">SIGN UP
+                    <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">LOG IN</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">MOVIES</a>
+                </li>
         
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                </ul>
+                <!-- Links -->
         
-                <div style="margin-left: 10%;" class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        
-                  <ul class="navbar-nav ml-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
-                        data-bs-toggle="dropdown" aria-expanded="false">
-                        <i class="fas fa-user"></i>   USERNAME
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#">Home</a></li>
-                            <li><a class="dropdown-item" href="#">Profile</a></li>
-                            <!-- <li><hr class="dropdown-divider"></li> -->
-                            <li><a class="dropdown-item" href="#">Diary</a></li>
-                            <li><a class="dropdown-item" href="#">Reviews</a></li>
-                            <li><a class="dropdown-item" href="#">Lists</a></li>
-                        </ul>
-                    </li>  
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">FILMS</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">LIST</a>
-                    </li>
-                  </ul>
-        
+                <form class="form-inline">
+                <div class="md-form my-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
                 </div>
-            </nav>
-        </div>
+                </form>
+            </div>
+            <!-- Collapsible content -->
+        
+            </div>
+  
+        </nav>
     </section>
 
     <section id="headerandstuff">
-        <p style="font-size: 50px; padding-top: 100px; text-align: center; color: #9ABBCC;">Watchlist</p>
-        <div class="input-group input-group-sm mb-3 inp-movie">
-            <input type="text" class="form-control" placeholder="your next movie ? " aria-label="nexr-movie" aria-describedby="basic-addon2">
-            <div class="input-group-append">
-              <button class="btn btn-outline-secondary" type="button" style="border: none; font-weight: 500; background-color: #15B030; color: white;">ADD</button>
-            </div>
-        </div>
+        <p style="font-size: 50px; padding-top: 100px; text-align: center; color: #9ABBCC;">"we live inside a dream"</p>
+        <p style="color: #9ABBCC; text-align: center;">films that are surreal, dreamy, and just a little bit weird
+          suggestions welcome!</p>
+        <p style="text-align: center; color: #9ABBCC;"><u> <a href="../../profile-page/profile-page.html"> List by Lucy</a></u> </p>
+        
     </section>
 
 
@@ -138,20 +142,20 @@
 
     <section id="movie-list">
                 <div style="margin-left: 5%;" class="card">
-                    <img src="images/scott-p.jpg" class="card-img" alt="...">
+                    <img src="images/coherence.jpg" class="card-img" alt="...">
                 </div>
                 <div class="card">
-                    <img src="images/drive.jpg" class="card-img" alt="...">
+                    <img src="images/get-out.jpg" class="card-img" alt="...">
                 </div>
                 <div class="card">
-                    <img src="images/into-spider-verse.jpg" class="card-img" alt="...">
+                    <img src="images/eternal.jpg" class="card-img" alt="...">
                 </div>
                 <div class="card">
-                    <img src="images/social-network.jpg" class="card-img" alt="...">
+                    <img src="images/fight-club.jpg" class="card-img" alt="...">
                 </div>
 
                 <div class="card" style="margin-left: 5%;">
-                    <img src="images/superbad.jpg" class="card-img" alt="...">
+                    <img src="images/drive.jpg" class="card-img" alt="...">
                 </div>
 
                 <div class="card">
