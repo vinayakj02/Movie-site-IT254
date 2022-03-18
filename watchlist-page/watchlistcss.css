@@ -1,6 +1,12 @@
 body{
     background-color: #15191E;
 }
+.head-icon{
+    color: red;
+}
+.nav-item{
+    margin: 0 2%;
+}
 
 img{
     width: 20%;
