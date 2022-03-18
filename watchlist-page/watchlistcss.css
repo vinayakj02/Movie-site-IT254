@@ -54,3 +54,15 @@ img{
     color: green;
     background-color: #212529;
 }
+
+
+footer{
+    padding: 2.5% 0;
+    /* margin: 10%; */
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+    color: aliceblue;
+}
+.social-icon{
+    margin: 2% 1%;
+}

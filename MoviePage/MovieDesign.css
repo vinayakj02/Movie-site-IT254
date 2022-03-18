@@ -15,7 +15,7 @@
     margin: auto;
 } */
 .card p{
-    color: aqua;
+    color: #DDEEFF;
 }
 .card p:hover{
     cursor: pointer;
@@ -23,12 +23,12 @@
 }
 .icon{
     /* padding-right: 8%; */
-    color: aqua;
+    color: #DDEEFF;
     margin: 0 7%;
 }
 .icon:hover{
     cursor: pointer;
-    color: aliceblue;
+    color: #00C030;
 }
 button{
     margin-top: 2%;
@@ -36,7 +36,7 @@ button{
 }
 .card{
     text-align: center;
-    background-color:darkslategrey;
+    background-color:#445566;
     color: aliceblue;
 }
 img{
@@ -60,7 +60,7 @@ img{
     background-color: aliceblue;
 }
 body{
-    background-color: black;
+    background-color: #15191E;
     color: antiquewhite;
     align-items: center;
 }
@@ -76,3 +76,4 @@ body{
 /* .review{
     margin-left: 10%;
 } */
+

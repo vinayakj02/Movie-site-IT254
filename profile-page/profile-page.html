@@ -25,7 +25,7 @@
             <div class="container">
         
             <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">LETTERBOXD</a>
+            <a class="navbar-brand" href="#">MOVIE SITE</a>
         
             <!-- Collapse button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
@@ -54,7 +54,7 @@
                 <!-- Links -->
         
                 <form class="form-inline">
-                <div class="md-form my-0">
+                <div class="md-form my-0" style="float: right;">
                     <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
                 </div>
                 </form>
@@ -69,12 +69,27 @@
 <body>
 
 
-    <div class="row" style="border : solid red 2px">
-        <div class="column side" style="border : solid rgb(25, 0, 255) 2px">
-            
+    <div class="d-flex justify-content-center" style="padding-top: 50px; margin-bottom: -140px;">
+        <div class="card p-4 py-5 profile-card" style="background-color: #445566;">
+            <div class="text-center" style="color: #AABBCC;"> <img src="..\watchlist-page\images\scott-p.jpg" width="100" class="rounded-circle">
+                <h3 class="mt-2">Scott</h3> <span class="mt-1 clearfix">Binge watcher?</span>
+                <div class="row mt-3 mb-3">
+                    <div class="col-md-4">
+                        <h5 style="font-size: 15px;">Followers</h5> <span class="num">10</span>
+                    </div>
+                    <div class="col-md-4">
+                        <h5 style="font-size: 15px;">Following</h5> <span class="num">10</span>
+                    </div>
+                    <div class="col-md-4">
+                        <h5 style="font-size: 15px;">Likes</h5> <span class="num">10</span>
+                    </div>
+                </div>
+                <hr class="line" > <small class="mt-4">It's movies</small>
+                <div class="profile mt-2"> <button class="profile_button px-5">View profile</button> </div>
+            </div>
         </div>
+    </div>
         
-        <div class="column middle" style="border : solid red 2px">
             <!-- movie-list starts -->
             <div class="movie-list">
                 <h1 style="margin-left : 60px; margin-bottom: -10px; font-size: 25px; color: #9ABBCC;">FAVORITE FILMS</h1>
@@ -113,8 +128,17 @@
                     </div>
                 
                 </div>
-            </div>
         
-    </div>
+            <br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <footer class="white-section" id="footer">
+                <div class="container-fluid">
+                    <i class="social-icon icon fab fa-facebook-f"></i>
+                    <i class="social-icon icon fab fa-twitter"></i>
+                    <i class="social-icon icon fab fa-instagram"></i>
+                    <i class="social-icon icon fas fa-envelope"></i>
+                    <p>© Copyright 2022</p>
+                </div>
+            </footer>
+
 </body>
 </html>

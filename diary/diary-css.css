@@ -1,0 +1,27 @@
+body{
+    background-color: #15191E;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+footer{
+    padding: 2.5% 0;
+    /* margin: 10%; */
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+    color: aliceblue;
+}
+.social-icon{
+    margin: 2% 1%;
+}
+.icon:hover{
+    color: #00C030;
+}
+
+.inp-movie{
+    padding-left: 500px;
+    padding-right: 500px;
+}
