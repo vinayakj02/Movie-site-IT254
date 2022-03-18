@@ -1,6 +1,12 @@
 .navbar{
     padding-left: 10%;
 }  
+.head-icon{
+    color: red;
+}
+.nav-item{
+    margin: 0 2%;
+}
 body{
     background-color: #15191E;
     color: aliceblue;
