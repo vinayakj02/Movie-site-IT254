@@ -24,50 +24,44 @@
 
 
     <section id="navbar">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-
-            <div class="container">
-        
-            <!-- Navbar brand -->
-            <a class="navbar-brand" href="#">LETTERBOXD</a>
-        
-            <!-- Collapse button -->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
-                aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-        
-            <!-- Collapsible content -->
-            <div class="collapse navbar-collapse" id="basicExampleNav">
+        <div class="navi">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <!-- <i class="fad fa-film"></i> -->
                 
-                <!-- Links -->
-                <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">SIGN UP
-                    <span class="sr-only">(current)</span>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">LOG IN</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">MOVIES</a>
-                </li>
+                <a style="margin-left: 15%;" class="navbar-brand" href=""><i class="head-icon fas fa-film"></i>    CINEFLIX</a>
         
-                </ul>
-                <!-- Links -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
         
-                <form class="form-inline">
-                <div class="md-form my-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                <div style="margin-left: 10%;" class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fas fa-user"></i>   USERNAME
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Home</a></li>
+                            <li><a class="dropdown-item" href="#">Profile</a></li>
+                            <!-- <li><hr class="dropdown-divider"></li> -->
+                            <li><a class="dropdown-item" href="#">Diary</a></li>
+                            <li><a class="dropdown-item" href="#">Reviews</a></li>
+                            <li><a class="dropdown-item" href="#">Lists</a></li>
+                        </ul>
+                    </li>  
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">FILMS</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">LIST</a>
+                    </li>
+                  </ul>
+        
                 </div>
-                </form>
-            </div>
-            <!-- Collapsible content -->
-        
-            </div>
-  
-        </nav>
+            </nav>
+        </div>
     </section>
 
     <section id="headerandstuff">
