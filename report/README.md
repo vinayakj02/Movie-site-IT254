@@ -17,10 +17,10 @@ Mini Poject - IT254 - Web Technologies and Applications
 | [Page for each movie](https://vinayakj02.github.io/Movie-site-IT254/MoviePage/Movie.html) | Nikhil |
 | [Watch list](https://vinayakj02.github.io/Movie-site-IT254/watchlist-page/watchlist.html) | Vinayak |
 | [Profile](https://vinayakj02.github.io/Movie-site-IT254/profile-page/profile-page.html) | Vinayak |
-| [Diary]() | Pranav |
+| [Diary](https://vinayakj02.github.io/Movie-site-IT254/diary/diary.html) | Pranav |
 | [Sign up](https://vinayakj02.github.io/Movie-site-IT254/Sign-Up/Sign-up.html) | Pranav |
 | [Log in](https://vinayakj02.github.io/Movie-site-IT254/Log-In/Log-In.html)| Pranav |
-| [Lists]() | Vinayak |
-| [Likes]() | Nikhil | 
+| [Lists](https://vinayakj02.github.io/Movie-site-IT254/custom-lists/custom-list-1/custom-list-1.html) | Vinayak |
+
 
 
